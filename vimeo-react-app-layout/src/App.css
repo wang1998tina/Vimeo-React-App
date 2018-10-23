@@ -1,0 +1,49 @@
+.App {
+  width:100%;
+}
+
+.flex-row{
+  display: inline-flex;
+  flex-flow: row wrap-reverse;
+  justify-content: center;
+  align-content:flex-end;
+  padding:8%;
+  width:85%;
+}
+
+.bkg-black{
+  background-color: #141414;
+}
+
+.bkg-gradient{
+  background-image: linear-gradient(to top, RGB(130, 130, 130), RGB(20, 20, 20))
+}
+
+.img-div{
+  width: 300px;
+  flex-grow: 1;
+}
+
+.img{
+  overflow:hidden;
+  width:100%;
+}
+
+.txt-div{
+  width:300px;
+  padding: 0px 5% 0px 5%;
+  flex-grow:1;
+}
+
+.txt-header{
+  font-weight:bold;
+}
+
+.txt{
+  font-size:10px;
+}
+
+.txt-white{
+  color:#FFFFFF;
+}
+
