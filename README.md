@@ -7,14 +7,13 @@ After pulling the repo to your local machine:
 
 To see the responsive layout locally:
 
-`cd vimeo-react-app-layout `
-`yarn start`
+`cd vimeo-react-app-layout ` and then `yarn start`
 
 To see the responsive carousel locally:
 
-`cd vimeo-react-app-carousel`
-`yarn start`
+`cd vimeo-react-app-carousel` and then `yarn start`
 
 
 
-created with 💕 from Tina Wang
+
+_created with 💕 from Tina Wang
