@@ -16,4 +16,4 @@ To see the responsive carousel locally:
 
 
 
-_created with 💕 from Tina Wang
+_created with 💕 from Tina Wang_
